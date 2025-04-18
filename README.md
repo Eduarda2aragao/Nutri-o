@@ -1,6 +1,6 @@
-# 🌱 NutriVida - Site de Nutrição e Bem-Estar
+# 🌱 Nutrição Fitness - Site de Nutrição e Bem-Estar
 
-**NutriVida** é um site desenvolvido em PHP com o objetivo de conscientizar as pessoas sobre a importância da alimentação saudável, bem-estar e qualidade de vida. O projeto fornece informações nutricionais, dicas de hábitos saudáveis, receitas equilibradas e ferramentas para acompanhamento de metas de saúde.
+**Nutrição Fitness** é um site desenvolvido em PHP com o objetivo de conscientizar as pessoas sobre a importância da alimentação saudável, bem-estar e qualidade de vida. O projeto fornece informações nutricionais, dicas de hábitos saudáveis, receitas equilibradas e ferramentas para acompanhamento de metas de saúde.
 
 ## 🧠 Objetivo
 
