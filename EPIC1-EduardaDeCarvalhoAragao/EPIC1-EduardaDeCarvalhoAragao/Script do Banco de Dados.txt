@@ -1,0 +1,16 @@
+Script do Banco de Dados :
+drop database nutricao;
+create  database nutricao;
+use nutricao;
+
+drop table cadastro;
+create table cadastro (
+  id int(11) NOT NULL primary key auto_increment,
+  Nome varchar(255) DEFAULT NULL,
+  Sobrenome varchar(255) DEFAULT NULL,
+  Email varchar(200) DEFAULT NULL,
+  Senha varchar(255) DEFAULT NULL
+) ENGINE=InnoDB;
+
+
+select * from cadastro;
